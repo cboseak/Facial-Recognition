@@ -1,0 +1,40 @@
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\frec.exe.config
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\x64\concrt140.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\x64\cvextern.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\x64\msvcp140.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\x64\opencv_ffmpeg341_64.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\x64\vcruntime140.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\x86\concrt140.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\x86\cvextern.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\x86\msvcp140.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\x86\opencv_ffmpeg341.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\x86\vcruntime140.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\frec.exe
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\frec.pdb
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\Emgu.CV.UI.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\Emgu.CV.World.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\System.Net.Http.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\ZedGraph.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\Emgu.CV.UI.xml
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\Emgu.CV.World.xml
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\System.Net.Http.xml
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\ZedGraph.xml
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\de\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\es\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\fr\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\hu\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\it\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\ja\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\pt\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\ru\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\sk\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\sv\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\tr\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\zh-cn\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\bin\Debug\zh-tw\ZedGraph.resources.dll
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\obj\Debug\frec.csprojResolveAssemblyReference.cache
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\obj\Debug\frec.exe
+c:\users\chris.boseak\documents\visual studio 2015\Projects\frec\frec\obj\Debug\frec.pdb
+C:\Users\chris.boseak\Source\Repos\Facial-Recognition\frec\bin\Debug\frec.exe.config
+C:\Users\chris.boseak\Source\Repos\Facial-Recognition\frec\obj\Debug\frec.exe
+C:\Users\chris.boseak\Source\Repos\Facial-Recognition\frec\obj\Debug\frec.pdb
